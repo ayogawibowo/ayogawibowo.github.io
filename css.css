@@ -1,0 +1,22 @@
+h1{
+	color: black;
+	text-align: center;
+	margin-top: 30px;
+	font-family: georgia, serif;
+	font-size: 40px;
+}
+body{
+	background-image: url("792744.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+p{margin: 15px 30px 15px 13px;
+	word-spacing: 3px;
+	font-family: arial, sans-serif;
+}
+h2{margin: 15px 25px 10px 20px;
+	font-family: "times new roman", serif;
+	font-size: 35px;
+}
+
